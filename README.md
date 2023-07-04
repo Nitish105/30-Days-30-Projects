@@ -8,6 +8,9 @@ Day 1 - QR Code Generator Using HTML, CSS, Javascript, and API <br>
         <br>
 Day 2 - Random Quote Generator Using HTML, CSS, Javascript, and API <br>
         Link 👉 https://day-2-project-random-quote-generator.netlify.app/
-
+        <br>
 Day 3 - To-Do-List Web Application Using HTML, CSS, Javascript <br>
         Link 👉 https://todo-list-webapplication.netlify.app/
+        <br>
+Day 4 - Weather accumulator Web Application Using HTML, CSS, Javascript, API: OpenWeatherMap <br>
+        Link 👉 https://weather-accumulator-webapp.netlify.app/
