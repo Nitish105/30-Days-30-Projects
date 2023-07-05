@@ -15,5 +15,5 @@ Day 3 - To-Do-List Web Application Using HTML, CSS, Javascript <br>
 Day 4 - Weather Accumulator Web Application Using HTML, CSS, Javascript, API: OpenWeatherMap <br>
         Link 👉 https://weather-accumulator-webapp.netlify.app/
         <br>
-Day 5 - Mini Calendar Using HTML, CSS, Javascript
+Day 5 - Mini Calendar Using HTML, CSS, Javascript <br>
         Link 👉 https://mini-calendar-webapp.netlify.app/
