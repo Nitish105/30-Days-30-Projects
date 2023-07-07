@@ -21,5 +21,5 @@ Day 5 - Mini Calendar Using HTML, CSS, Javascript <br>
 Day 6 - TeXpeech WebApp : Text to Speech Convertor Using HTML, CSS, Javascript <br>
         Link 👉 https://texpeech-webapp-text-to-speech-convey.netlify.app/  
         <br>
-Day 7 - E-Notes WebApp: You Can Make Notes anytime, anywhere & anybody📝<br>
+Day 7 - E-Notes WebApp: (You Can Make Notes Anytime, Anywhere & Paperfree📝) Using HTML, CSS, Javascript <br>
         Link 👉 https://e-notes-webapp.netlify.app/
