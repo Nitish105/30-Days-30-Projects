@@ -26,4 +26,10 @@ Day 7 - E-Notes WebApp: (You Can Make Notes Anytime, Anywhere & Paperfree📝) U
         <br>
 Day 8 - Web Calculator - Your calculator in your web Using HTML, CSS, Javascript <br>
         Link 👉 https://e-calculator-webapp.netlify.app/ 
+        <br>
+Day 9 - Web Digital Clock: Check Your Time On Your Web Using HTML, CSS, Javascript <br>
+        Link 👉 https://web-digital-clock.netlify.app/
+        <br>
+Day 10 - E-Commerce Product Gallery Card on your web Using HTML, CSS, Javascript <br>
+        Link 👉 https://e-commerce-product-gallery-card.netlify.app/
 
