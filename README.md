@@ -38,4 +38,7 @@ Day 11 - Image Search Engine WebApp Using HTML, CSS, Javascript, API: Unsplash <
         <br>
 Day 12 - Age Calculator in your WebApp Using HTML, CSS, Javascript <br>
         Link 👉 https://e-age-calculator-webapp.netlify.app/
+        <br>
+Day 13 - Image Resizer WebApp Using HTML, CSS, Javascript <br>
+        Link 👉 https://image-resizer-webapp.netlify.app/
 
