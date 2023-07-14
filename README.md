@@ -41,4 +41,7 @@ Day 12 - Age Calculator in your WebApp Using HTML, CSS, Javascript <br>
         <br>
 Day 13 - Image Resizer WebApp Using HTML, CSS, Javascript <br>
         Link 👉 https://image-resizer-webapp.netlify.app/
+        <br>
+Day 14 - Image Background Transition Effects Using HTML, CSS, Javascript <br>
+        Link 👉 https://image-background-transitions-effects.netlify.app/
 
