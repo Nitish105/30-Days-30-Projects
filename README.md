@@ -20,11 +20,10 @@ Day 5 - Mini Calendar Using HTML, CSS, Javascript <br>
         <br>
 Day 6 - TeXpeech WebApp : Text to Speech Convertor Using HTML, CSS, Javascript <br>
         Link 👉 https://texpeech-webapp-text-to-speech-convey.netlify.app/  
-        <br>
 Day 7 - E-Notes WebApp: (You Can Make Notes Anytime, Anywhere & Paperfree📝) Using HTML, CSS, Javascript <br>
         Link 👉 https://e-notes-webapp.netlify.app/
         <br>
-Day 8 - Web Calculator - Your calculator in your web Using HTML, CSS, Javascript <br>
+Day 8 - Web Calculator: Your calculator in your web Using HTML, CSS, Javascript <br>
         Link 👉 https://e-calculator-webapp.netlify.app/ 
         <br>
 Day 9 - Web Digital Clock: Check Your Time On Your Web Using HTML, CSS, Javascript <br>
