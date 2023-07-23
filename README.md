@@ -53,7 +53,7 @@ Day 16 - Horizontal Image Slider Gallery Using HTML, CSS, Javascript <br>
 Day 17 - Online StopWatch WebApp Using HTML, CSS, Javascript <br>
         Link 👉 https://online-stopwatch-webapp.netlify.app/
         <br>
-Day 18 - Online Music WebApp - You can Listen to Your Favourite Songs Anytime, Anywhere Using HTML, CSS, Javascript <br>
+Day 18 - Online Music WebApp(You can Listen to Your Favourite Songs Anytime, Anywhere) Using HTML, CSS, Javascript <br>
         Link 👉 https://online-music-webapp.netlify.app/
         <br>
 Day 19 - Coming Soon Page Website Using HTML, CSS, Javascript <br>
@@ -68,7 +68,7 @@ Day 21 - Online Convert Text To Any File WebApp Using HTML, CSS, Javascript <br>
 Day 22 - Online Image Editor WebApp Using HTML, CSS, Javascript <br>
         Link 👉 https://online-image-editor-webapp.netlify.app/
         <br> 
-Day 33 - Online Dictionary Web App(Find English Meaning Easily in Your WebApp) Using HTML, CSS, Javascript <br>
+Day 23 - Online Dictionary Web App(Find English Meaning Easily in Your WebApp) Using HTML, CSS, Javascript, API: (dictionaryapi.dev) <br>
         Link 👉 https://online-dictionary-webapp.netlify.app/
         
 
