@@ -59,12 +59,17 @@ Day 18 - Online Music WebApp - You can Listen to Your Favourite Songs Anytime, A
 Day 19 - Coming Soon Page Website Using HTML, CSS, Javascript <br>
         Link 👉 https://coming-soon-page-website.netlify.app/
         <br>
-Day 20 - Online Custom Gradient Color Generator Using HTML, CSS, Javascript <br>
+Day 20 - Online Custom Gradient Color Generator WebApp Using HTML, CSS, Javascript <br>
         Link 👉 https://online-custom-gradientcolor-generator.netlify.app/
         <br>
-Day 21 - Online Convert Text To Any File Using HTML, CSS, Javascript <br>
+Day 21 - Online Convert Text To Any File WebApp Using HTML, CSS, Javascript <br>
         Link 👉 https://online-convert-text-to-any-file.netlify.app/
+        <br>
+Day 22 - Online Image Editor WebApp Using HTML, CSS, Javascript <br>
+        Link 👉 https://online-image-editor-webapp.netlify.app/
         <br> 
+Day 33 - Online Dictionary Web App(Find English Meaning Easily in Your WebApp) Using HTML, CSS, Javascript <br>
+        Link 👉 https://online-dictionary-webapp.netlify.app/
         
 
 
