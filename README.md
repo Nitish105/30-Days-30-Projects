@@ -68,8 +68,12 @@ Day 21 - Online Convert Text To Any File WebApp Using HTML, CSS, Javascript <br>
 Day 22 - Online Image Editor WebApp Using HTML, CSS, Javascript <br>
         Link 👉 https://online-image-editor-webapp.netlify.app/
         <br> 
-Day 23 - Online Dictionary Web App(Find English Meaning Easily in Your WebApp) Using HTML, CSS, Javascript, API: (dictionaryapi.dev) <br>
+Day 23 - Online Dictionary Web App(Find English Meaning Easily in Your WebApp) Using HTML, CSS,         Javascript, API: (dictionaryapi.dev) <br>
         Link 👉 https://online-dictionary-webapp.netlify.app/
+        <br>
+Day 24 - Online GAME: Word Scramble Using HTML, CSS, Javascript <br>
+        Link 👉 
+        
         
 
 
