@@ -3,73 +3,74 @@
 All these projects are helping to improve my HTML, CSS, and JavaScripts skills.
 There are 30 Projects covered in 30 Days.
 
-Day 1 - QR Code Generator Using HTML, CSS, Javascript, and API <br>
-        Link 👉 https://day-1-project-qr-code-generator.netlify.app/ 
+Day 1 - Web QR Code Generator Application Using HTML, CSS, Javascript, and API <br>
+        Link 👉 https://e-qr-code-generator.netlify.app/
         <br>
-Day 2 - Random Quote Generator Using HTML, CSS, Javascript, and API <br>
-        Link 👉 https://day-2-project-random-quote-generator.netlify.app/
+Day 2 - Web Random Quote Generator App Using HTML, CSS, Javascript, and API <br>
+        Link 👉 https://online-random-quote-generator.netlify.app/
         <br>
-Day 3 - To-Do-List Web Application Using HTML, CSS, Javascript <br>
-        Link 👉 https://todo-list-webapplication.netlify.app/
+Day 3 - Web To-Do-List Application Using HTML, CSS, Javascript <br>
+        Link 👉 https://web-todo-list-application.netlify.app/
         <br>
-Day 4 - Weather Accumulator Web Application Using HTML, CSS, Javascript, API: OpenWeatherMap <br>
-        Link 👉 https://weather-accumulator-webapp.netlify.app/
+Day 4 - Web Weather Forecast Application Using HTML, CSS, Javascript, API: OpenWeatherMap <br>
+        Link 👉 https://web-weather-forecast-application.netlify.app/
         <br>
-Day 5 - Mini Calendar Using HTML, CSS, Javascript <br>
-        Link 👉 https://mini-calendar-webapp.netlify.app/
+Day 5 - Web Mini Calendar Application Using HTML, CSS, Javascript <br>
+        Link 👉 https://web-mini-calender-application.netlify.app/
         <br>
 Day 6 - TeXpeech WebApp : Text to Speech Convertor Using HTML, CSS, Javascript <br>
-        Link 👉 https://texpeech-webapp-text-to-speech-convey.netlify.app/  
-Day 7 - E-Notes WebApp: (You Can Make Notes Anytime, Anywhere & Paperfree📝) Using HTML, CSS, Javascript <br>
-        Link 👉 https://e-notes-webapp.netlify.app/
+        Link 👉 https://web-texpeech-converter-application.netlify.app/
         <br>
-Day 8 - Web Calculator: Your calculator in your web Using HTML, CSS, Javascript <br>
-        Link 👉 https://e-calculator-webapp.netlify.app/ 
+Day 7 - Web-Keep-Notes Application: (You Can Make Notes Anytime, Anywhere & Paperfree📝) Using HTML, CSS, Javascript <br>
+        Link 👉 https://web-keep-notes-application.netlify.app/
         <br>
-Day 9 - Web Digital Clock: Check Your Time On Your Web Using HTML, CSS, Javascript <br>
-        Link 👉 https://web-digital-clock.netlify.app/
+Day 8 - Web Calculator Application: Your calculator in your web Using HTML, CSS, Javascript <br>
+        Link 👉 https://web-your-calculator-application.netlify.app/
+        <br>
+Day 9 - Web Digital Clock Application: Check Your Time On Your Web Using HTML, CSS, Javascript <br>
+        Link 👉 https://web-digital-clock-application.netlify.app/
         <br>
 Day 10 - E-Commerce Product Gallery Card on your web Using HTML, CSS, Javascript <br>
-        Link 👉 https://e-commerce-product-gallery-card.netlify.app/
+        Link 👉 https://web-ecommerce-product-card-app.netlify.app/
         <br>
 Day 11 - Image Search Engine WebApp Using HTML, CSS, Javascript, API: Unsplash <br>
-        Link 👉 https://image-search-engine-like-unsplash-web.netlify.app/ 
+        Link 👉 https://web-image-search-engine-application.netlify.app/
         <br>
 Day 12 - Age Calculator in your WebApp Using HTML, CSS, Javascript <br>
-        Link 👉 https://e-age-calculator-webapp.netlify.app/
+        Link 👉 https://web-age-calculator-application.netlify.app/
         <br>
 Day 13 - Image Resizer WebApp Using HTML, CSS, Javascript <br>
-        Link 👉 https://image-resizer-webapp.netlify.app/
+        Link 👉 https://web-image-resizer-application.netlify.app/
         <br>
 Day 14 - Image Background Transition Effects Using HTML, CSS, Javascript <br>
-        Link 👉 https://image-background-transitions-effects.netlify.app/ 
+        Link 👉 https://web-image-background-transition-app.netlify.app/
         <br>
 Day 15 - Online Quiz WebApp Using HTML, CSS, Javascript <br>
-        Link 👉 https://online-quiz-webapp.netlify.app/
+        Link 👉 
         <br>
 Day 16 - Horizontal Image Slider Gallery Using HTML, CSS, Javascript <br>
-        Link 👉 https://horizontal-image-slider-gallery.netlify.app/
+        Link 👉
         <br>
 Day 17 - Online StopWatch WebApp Using HTML, CSS, Javascript <br>
-        Link 👉 https://online-stopwatch-webapp.netlify.app/
+        Link 👉 
         <br>
 Day 18 - Online Music WebApp(You can Listen to Your Favourite Songs Anytime, Anywhere) Using HTML, CSS, Javascript <br>
-        Link 👉 https://online-music-webapp.netlify.app/
+        Link 👉 
         <br>
 Day 19 - Coming Soon Page Website Using HTML, CSS, Javascript <br>
-        Link 👉 https://coming-soon-page-website.netlify.app/
+        Link 👉 
         <br>
 Day 20 - Online Custom Gradient Color Generator WebApp Using HTML, CSS, Javascript <br>
-        Link 👉 https://online-custom-gradientcolor-generator.netlify.app/
+        Link 👉 
         <br>
 Day 21 - Online Convert Text To Any File WebApp Using HTML, CSS, Javascript <br>
-        Link 👉 https://online-convert-text-to-any-file.netlify.app/
+        Link 👉 
         <br>
 Day 22 - Online Image Editor WebApp Using HTML, CSS, Javascript <br>
-        Link 👉 https://online-image-editor-webapp.netlify.app/
+        Link 👉 
         <br> 
 Day 23 - Online Dictionary Web App(Find English Meaning Easily in Your WebApp) Using HTML, CSS, Javascript, API: (dictionaryapi.dev) <br>
-        Link 👉 https://online-dictionary-webapp.netlify.app/
+        Link 👉 
         <br>
 Day 24 - Online GAME: Word Scramble Using HTML, CSS, Javascript <br>
         Link 👉 https://online-word-scramble-game.netlify.app/
