@@ -46,31 +46,31 @@ Day 14 - Image Background Transition Effects Using HTML, CSS, Javascript <br>
         Link 👉 https://web-image-background-transition-app.netlify.app/
         <br>
 Day 15 - Online Quiz WebApp Using HTML, CSS, Javascript <br>
-        Link 👉 
+        Link 👉 https://web-online-quiz-app.netlify.app/
         <br>
 Day 16 - Horizontal Image Slider Gallery Using HTML, CSS, Javascript <br>
-        Link 👉
+        Link 👉 https://web-horizontal-scroll-image-gallery.netlify.app/
         <br>
 Day 17 - Online StopWatch WebApp Using HTML, CSS, Javascript <br>
-        Link 👉 
+        Link 👉 https://web-stopwatch-application.netlify.app/
         <br>
 Day 18 - Online Music WebApp(You can Listen to Your Favourite Songs Anytime, Anywhere) Using HTML, CSS, Javascript <br>
-        Link 👉 
+        Link 👉 https://web-music-tune-application.netlify.app/
         <br>
 Day 19 - Coming Soon Page Website Using HTML, CSS, Javascript <br>
         Link 👉 
         <br>
 Day 20 - Online Custom Gradient Color Generator WebApp Using HTML, CSS, Javascript <br>
-        Link 👉 
+        Link 👉 https://web-coming-soon-page.netlify.app/
         <br>
 Day 21 - Online Convert Text To Any File WebApp Using HTML, CSS, Javascript <br>
-        Link 👉 
+        Link 👉 https://web-custom-gradient-color-application.netlify.app/
         <br>
 Day 22 - Online Image Editor WebApp Using HTML, CSS, Javascript <br>
-        Link 👉 
+        Link 👉 https://web-text-to-anyfile-converter-app.netlify.app/
         <br> 
 Day 23 - Online Dictionary Web App(Find English Meaning Easily in Your WebApp) Using HTML, CSS, Javascript, API: (dictionaryapi.dev) <br>
-        Link 👉 
+        Link 👉 https://online-dictionary-webapplication.netlify.app/
         <br>
 Day 24 - Online GAME: Word Scramble Using HTML, CSS, Javascript <br>
         Link 👉 https://online-word-scramble-game.netlify.app/
