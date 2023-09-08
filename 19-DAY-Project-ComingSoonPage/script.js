@@ -23,6 +23,5 @@ var x = setInterval(function(){
         document.getElementById("minutes").innerHTML = "00";
         document.getElementById("seconds").innerHTML =  "00";
     }
-
-
+    
 }, 1000);
