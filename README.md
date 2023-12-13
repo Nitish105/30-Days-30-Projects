@@ -80,7 +80,9 @@ Day 25 - Online Filterable Image Gallery Using HTML, CSS, Javascript <br>
         <br>
 Day 26 - Online File Downloader for all types of File Such as Images, Videos, etc. <br>
         Link 👉 https://online-all-types-file-downloader.netlify.app/
-        
+
+Day 27 - Location tracker through IP address application Using HTML, CSS, Javascript, public API 
+        Link 👉 https://location-tracking-through-ip-address-appliaction.vercel.app/
         
 
 
