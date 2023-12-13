@@ -1,6 +1,6 @@
 # 30-Days-30-Projects 🎯 <br> ![MobileApplicationDigitalMarketingGIF](https://github.com/Nitish105/30-Days-30-Projects/assets/83354680/722fa7b1-bfbf-4daa-88ca-32147d2f1fb1)
 
-All these projects are helping to improve my HTML, CSS, and JavaScripts skills.
+All these projects are helping to improve my HTML, CSS, and JavaScript skills.
 There are 30 Projects covered in 30 Days.
 
 Day 1 - Web QR Code Generator Application Using HTML, CSS, Javascript, and API <br>
